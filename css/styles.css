@@ -8,18 +8,21 @@
 	float: left;
 }
 
-.tileOne{
+.tile{
 	float: left;
 	width: 80px;
 	height: 80px;
+}
+
+.one{
 	background-color: green;
+}
+
+.two{
+	background-color: blue;
+}
+
+.clear{
 	clear: left;
 }
 
-.tileTwo{
-	float: left;
-	width: 80px;
-	height: 80px;
-	background-color: blue;
-	clear: left;
-}
